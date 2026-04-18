@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model checkpoints (optional — comment out if you want to commit them)
+# best_lstm.pt
+
+# OS
+.DS_Store
+Thumbs.db
